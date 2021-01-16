@@ -4,9 +4,8 @@
 
 ## 说明
 
-爬取豆瓣电影Top250数据：[访问](https://movie.douban.com/top250?start=0&filter=)
-
-使用正则爬取豆瓣电影Top250获得信息后并将信息持久化到数据库中。
+1. 爬取豆瓣电影Top250数据：[访问](https://movie.douban.com/top250?start=0&filter=)
+2. 使用正则爬取豆瓣电影Top250获得信息后并将信息持久化到数据库中。
 
 
 ## 使用步骤
